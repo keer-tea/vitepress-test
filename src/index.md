@@ -26,7 +26,7 @@ const lastUpdateTime = fakeData.reduce((resTime, item) => {
     // But I don't know how to do that... (I tried)
     // ...
 
-    return (item.lastUpdateTime < resTime) ? item : resTime
+    return (item.lastUpdateTime < resTime) ? item.lastUpdateTime : resTime
 }, initialValue)
 
 </script>
