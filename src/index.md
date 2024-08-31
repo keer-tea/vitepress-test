@@ -4,7 +4,6 @@
 
 import { data as docs } from './index.data.js'
 
-
 const fakeData = [
     {
         lastUpdateTime: 19
