@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@mdi/font": "^7.4.47",
     "postcss": "^8.5.1",
     "sass-embedded": "^1.83.4",
     "vitepress": "2.0.0-alpha.2"
